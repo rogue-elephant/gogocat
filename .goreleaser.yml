@@ -48,7 +48,7 @@ snapcrafts:
     # most important story about your snap. Keep it under 100 words though,
     # we live in tweetspace and your description wants to look good in the snap
     # store.
-    description: A pipe action tool that outputs colourfully with some highlighting - guaranteed to break the ice at parti
+    description: A pipe action tool that outputs colourfully with some highlighting - guaranteed to break the ice at parties
 
     # A guardrail to prevent you from releasing a snap to all your users before
     # it is ready.
