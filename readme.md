@@ -1,6 +1,8 @@
 # GoGoCat
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/gogocat)
 
+[![gogocat](https://snapcraft.io//gogocat/badge.svg)](https://snapcraft.io/gogocat)
+
 ```$sudo snap install gogocat```
 
 Then
