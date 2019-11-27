@@ -80,7 +80,7 @@ snapcrafts:
 
     # Each binary built by GoReleaser is an app inside the snap. In this section
     # you can declare extra details for those binaries. It is optional.
-    apps:
+    # apps:
 
       # The name of the app must be the same name as the binary built or the snapcraft name.
       # gogocat:
