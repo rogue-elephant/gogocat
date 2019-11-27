@@ -1,4 +1,0 @@
-3152001ff9ad6b4075d9966b35254a3c746b01168da7af6ff3ca99c38687a328  gogocat_0.1.1_Darwin_i386.tar.gz
-0332259f7cd70d6ea72dd7c737bb68f7d35db022d0ada0ba65f5c190419d1135  gogocat_0.1.1_Darwin_x86_64.tar.gz
-51dc39b149cc662d61364f0d2c6bb5ff088c1ffad3bbdb5fb6d23a4b9716a7d7  gogocat_0.1.1_Linux_x86_64.tar.gz
-18472f4ee7036ed35f242c3b7076ec1f0ced67e1dcd79adf0c99fd6ab851ff6c  gogocat_0.1.1_Linux_i386.tar.gz

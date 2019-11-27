@@ -72,8 +72,21 @@ nfpms:
 snapcrafts:
 - name_template: '{{ .ProjectName }}_{{ .Version }}_{{ .Os }}_{{ .Arch }}{{ if .Arm
     }}v{{ .Arm }}{{ end }}'
+  replacements:
+    "386": 32-bit
+    amd64: 64-bit
+    darwin: macOS
+    linux: Tux
+  publish: true
   builds:
   - gogocat
+  name: gogocat
+  summary: A poor lolcat wannabe made in golang
+  description: A pipe action tool that outputs colourfully with some highlighting
+    - guaranteed to break the ice at parti
+  license: MIT
+  grade: devel
+  confinement: strict
 snapshot:
   name_template: '{{ .Tag }}-next'
 checksum:

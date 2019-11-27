@@ -2,5 +2,5 @@
 
 ## Changelog
 
-2eb4da5 added goreleaser
+b019985 updated goreleaser config
 
