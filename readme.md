@@ -17,6 +17,7 @@ Then
 ![](https://img.shields.io/badge/using-golang-008866?style=flat&logo=go)
 
 pipe CLI utility for prettifying output.
+Based on the excellent tutorial here https://flaviocopes.com/go-tutorial-lolcat/
 
 ## Use
 ```cat main.go | docker run -i rogueelephant/gogocat```
